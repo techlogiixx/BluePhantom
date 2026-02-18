@@ -1,6 +1,8 @@
 # BluePhantom
 
-BluePhantom es una herramienta que permite extraer audio del entorno al conectarse a dispositivos Bluetooth vulnerables.
+BluePhantom es una herramienta que permite extraer audio del entorno al conectarse a dispositivos Bluetooth disponibles.
+
+Link a la herramienta oficial: https://github.com/dailymycode/BluePhantom.git
 
 ⚠️ Funciona únicamente en sistemas macOS.
 
@@ -10,7 +12,6 @@ BluePhantom es una herramienta que permite extraer audio del entorno al conectar
 
 - macOS
 - Git instalado
-- Permisos de usuario para Bluetooth
 
 ---
 
